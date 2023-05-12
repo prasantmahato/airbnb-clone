@@ -2,6 +2,8 @@
 
 Live at Netlify: https://delicate-faun-e5630b.netlify.app/
 
+(CTRL+click or CMD+click to open in new tab)
+
 ## Steps to Execute
 - git clone https://github.com/prasantmahato/airbnb-clone.git
 - cd airbnb-clone
