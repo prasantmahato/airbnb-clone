@@ -7,7 +7,7 @@ export default [
         img: "https://images.unsplash.com/photo-1682917265562-139c5aa7070c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         stats: {
             rating: 5.0,
-            reviewCount: 6
+            reviewCnt: 6
         },
         location: "Bangalore",
         openSpots: 0,
@@ -20,7 +20,7 @@ export default [
         img: "https://images.unsplash.com/photo-1514222134-b57cbb8ce073?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         stats: {
             rating: 5.0,
-            reviewCount: 30
+            reviewCnt: 30
         },
         location: "Online",
         openSpots: 27,
@@ -33,7 +33,7 @@ export default [
         img: "https://images.unsplash.com/photo-1593164842264-854604db2260?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         stats: {
             rating: 4.8,
-            reviewCount: 2
+            reviewCnt: 2
         },
         location: "Dharamshala",
         openSpots: 3,
@@ -46,10 +46,10 @@ export default [
         img: "https://images.unsplash.com/photo-1565035010268-a3816f98589a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
         stats: {
             rating: 5.0,
-            reviewCount: 426
+            reviewCnt: 426
         },
         location: "Mumbai",
-        openSpots: 3,
+        openSpots: 0,
     },
     {
         id: 6,
@@ -59,7 +59,7 @@ export default [
         img: "https://images.unsplash.com/photo-1683086430031-1087df2d4a9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
         stats: {
             rating: 5.0,
-            reviewCount: 30
+            reviewCnt: 30
         },
         location: "Online",
         openSpots: 27,
@@ -72,7 +72,7 @@ export default [
         img: "https://images.unsplash.com/photo-1565035010268-a3816f98589a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=776&q=80",
         stats: {
             rating: 5.0,
-            reviewCount: 426
+            reviewCnt: 426
         },
         location: "Mumbai",
         openSpots: 0,
