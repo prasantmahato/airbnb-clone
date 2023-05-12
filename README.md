@@ -12,7 +12,6 @@ Live at Netlify: https://delicate-faun-e5630b.netlify.app/
 
 
 # Screenshots
+<img width="1552" alt="Screenshot-main" src="https://github.com/prasantmahato/airbnb-clone/assets/62459775/cbec480b-a5c4-4fb4-9818-bea17db0b7de">
 
-<img width="1552" alt="Screenshot-main" src="https://github.com/prasantmahato/airbnb-clone/assets/62459775/fb947c6d-5a9e-4bab-8414-f9dbc38980f3">
-
-<img width="1552" alt="Screenshot-cards" src="https://github.com/prasantmahato/airbnb-clone/assets/62459775/851f393e-60dd-4ec2-bafe-78e7f8f77652">
+<img width="1552" alt="Screenshot-cards" src="https://github.com/prasantmahato/airbnb-clone/assets/62459775/1680de3e-58de-4822-a145-2dbeddfca693">
